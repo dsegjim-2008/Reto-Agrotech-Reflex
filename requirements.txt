@@ -1,0 +1,6 @@
+fastapi
+reflex
+requests
+reflex-enterprise
+sqlmodel
+bcrypt
